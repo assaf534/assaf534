@@ -1,4 +1,8 @@
-<h1 align="center">Hey, I'm Assaf 👋 — Security & ML Engineer</h1>
+הנה גרסה מותאמת. שני שינויים עיקריים שעשיתי, ולמה:
+נקודה אחת ישירה לפני הקוד — בקו"ח שלך אתה לא ממש "ML Engineer" במובן של אימון מודלים; אתה משתמש ב-LLMs, עושה orchestration, RAG, agentic, ובונה מערכות forensics ו-risk detection. "ML Engineer" עלול להזמין שאלות בראיון שיהיה לך קצת מוזר לגבות (איזה מודלים אימנת, אבלציות וכו'). אז הצמדתי את הכותרת למה שאתה באמת עושה. אם אתה דווקא רוצה להישאר עם ML — תגיד ואחזיר.
+הדבר השני: הטקסט המקורי נשמע כמו פרופיל לינקדאין ("I craft tools that are both smart and secure"). שכתבתי אותו שיישמע כמוך — לקחתי את הזווית האמיתית שלך מהקו"ח: שמושך אותך מה שמתחת לבעיה, לא הנקודות על פני השטח.
+html<h1 align="center">Hey, I'm Assaf 👋</h1>
+<h3 align="center">Cloud Security & Applied AI — I build tools that pull signal out of messy data</h3>
 
 <p align="center">
   <a href="https://github.com/assaf534?tab=followers">
@@ -11,8 +15,10 @@
 </p>
 
 <p align="center">
-  I build intelligent systems at the intersection of <strong>Cloud Security</strong> and <strong>Machine Learning</strong>.<br/>
-  From agentic IAM policy classification to network forensics — I craft tools that are both smart and secure.
+  I'm a Computer Science grad who's drawn to the infrastructure behind a problem, not just the data points on the surface.<br/>
+  Lately that's meant tracing IPs back to the providers behind them, linking scattered device IDs to the real people using them,<br/>
+  and pointing an LLM at AWS IAM policies to catch the risky ones before they cause trouble.<br/><br/>
+  Ex-tank commander, happiest knee-deep in a messy dataset and a problem nobody's mapped yet.
 </p>
 
 ---
