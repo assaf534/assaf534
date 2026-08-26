@@ -1,5 +1,5 @@
 html<h1 align="center">Hey, I'm Assaf 👋</h1>
-<h3 align="center">Cloud Security & Applied AI — I build tools that pull signal out of messy data</h3>
+<h3 align="center">Cloud Security & Applied AI - I build tools that pull signal out of messy data</h3>
 
 <p align="center">
   <a href="https://github.com/assaf534?tab=followers">
